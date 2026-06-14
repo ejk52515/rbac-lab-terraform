@@ -384,4 +384,4 @@ Every issue below was encountered and resolved during this build. Each is a cond
 
 ---
 
-*Lab 2 of a series. Built on the FS01 file server from [Lab 1 — Active Directory File Server with NTFS Permissions](https://github.com/ejk52515).*
+*Lab 2 of a series. Built on the FS01 file server from [Lab 1 — Active Directory File Server with NTFS Permissions]([https://github.com/ejk52515](https://github.com/ejk52515/azure-ntfs-fileserver-lab).*
