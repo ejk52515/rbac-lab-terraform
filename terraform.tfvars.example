@@ -1,0 +1,9 @@
+resource_group_name    = "RG-FileServerLab"   # Case-sensitive — must match Lab 1 exactly
+vm_name                = "FS01"               # Case-sensitive — must match Lab 1 exactly
+location               = "southafricanorth"
+
+# Object IDs for your three test users.
+# Run .\scripts\01-get-object-ids.ps1 to get these values.
+sysadmin_object_id     = "REPLACE_WITH_SYSADMIN_OBJECT_ID"
+support_user_object_id = "REPLACE_WITH_SUPPORTTECH_OBJECT_ID"
+auditor_object_id      = "REPLACE_WITH_AUDITOR_OBJECT_ID"
