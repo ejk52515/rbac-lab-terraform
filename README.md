@@ -4,6 +4,8 @@
 
 This project solves a problem every cloud environment faces: **controlling who can manage infrastructure, and to what degree.** It is the cloud control-plane counterpart to Lab 1 — where Lab 1 governed who could open files *inside* a server, this lab governs who can start, stop, delete, or reassign access to the server *itself*, from Azure.
 
+
+Loom Link: https://www.loom.com/share/67ff3f4d1392464f8f7163dcbd0927de
 ---
 
 ## Table of Contents
